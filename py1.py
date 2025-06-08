@@ -1,11 +1,15 @@
 #simple printing statement
 print("this is a first statement")
 
-#this is comment line and single line comment
+
+
+#comments:-
+
+# i. this is comment line and single line comment
 # this line is ignored by the interpriter
 
 
-#for multiline comment we use ''' '''
+# ii. for multiline comment we use (''' ''')
 print('''
       hello
       hii
