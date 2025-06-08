@@ -48,6 +48,40 @@ print(c) #it give boolean value Flase
 d=10!=5
 print(d) #it give boolean value True
 
-#iv.logicla operators
+#iv.logical operators
+
+#Truth table of and operator
+print("True and False is:",True and False)
+print("False and False is:",True and False)
+print("True and True is:",True and False)
+print("False and False is:",True and False)
+
+#Truth table of or operator
+print("True or False is:",True or False)
+print("False or False is:",True or False)
+print("True or True is:",True or False)
+print("False or False is:",True or False)
+
+#tTruth table of not operator
+print(not(False))
+print(not(True))
 
 
+#v.type() functions
+
+r=12
+t=type(r) #class int
+print(t)
+
+q=12.07
+e=type(q)  #class float
+print(e)
+
+d="darshan"
+s=type(d) #class string
+print(s)
+
+a="68.9"
+v=float(a)  #converting string to float
+y=type(a)
+print(y)
