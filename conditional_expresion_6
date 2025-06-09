@@ -10,3 +10,4 @@ elif(a==0):
 else:
     print("u r not able to vote")
     
+
