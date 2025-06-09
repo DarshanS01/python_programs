@@ -1,5 +1,5 @@
 a=int(input("enter the number"))
-if(a>18):
+if(a>=18):
     print("u r able to vote")
 else:
     print("u r not able to vote")
