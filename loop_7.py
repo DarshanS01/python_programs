@@ -23,3 +23,10 @@ for f in t:
     print(f)
 else:
     print("done")
+    
+
+k=int(input("eneter the number"))  #reverse table
+for i in range(1,11):
+    print(k,"x",(11-i),"=",(11-i)*k)
+    
+    
