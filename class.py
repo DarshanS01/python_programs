@@ -1,6 +1,6 @@
 class emp:
     age=20
-    course="bca "
+    course="bca"
     salary=800000
     
 darsh=emp()
