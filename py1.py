@@ -12,7 +12,7 @@ print("this is a first statement")
 # ii. for multiline comment we use (''' ''')
 print('''
       hello
-      hii
+      hi
       byee'''
 )
 
